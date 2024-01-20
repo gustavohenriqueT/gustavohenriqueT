@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Gustavo Henrique 👋
+Estudante de Ciência da Computação
 ### Hello! I'm Gustavo Henrique 👋
 
 [![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavohenriquet.github.io)
