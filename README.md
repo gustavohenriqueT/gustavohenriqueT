@@ -6,9 +6,8 @@
 
 - 📫 How to reach me: guh765henrique@gmail.com
 
-[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavohenriquet.github.io)
+[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devshowcase-d8c.pages.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-tomaz-0a7a97242/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsxtav/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmVbwBhFfQZKbJqpzGfNKstznnJJSClzLjdwgZrRHsxbHcqDmsqVBrNKRkQNjrblgNnq)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavohenriqueT&show_icons=true&theme=radical)
