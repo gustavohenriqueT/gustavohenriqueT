@@ -21,14 +21,9 @@
   <img aling= "center "alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling= "center "alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img aling= "center "alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
-<div>
   <img aling= "center "alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img aling= "center "alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
-  <img aling= "center "alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img aling= "center "alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
 
 Entusiasta do aprendizado contínuo e apaixonado por tecnologias e programação, busco não apenas enriquecer minha própria jornada, mas também impactar positivamente a vida de outras pessoas por meio desse fascínio que compartilhamos. Atualmente, estou dedicado aos estudos em Ciência da Computação, na universidade Unifeob, concentrando-me especialmente na área de desenvolvimento backend, embora meu objetivo seja abranger e compreender todas as areas de estudos.
 
