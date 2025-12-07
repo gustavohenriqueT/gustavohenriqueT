@@ -25,6 +25,9 @@
   <img aling= "center "alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
+
+
+
 Entusiasta do aprendizado contínuo e apaixonado por tecnologias e programação, busco não apenas enriquecer minha própria jornada, mas também impactar positivamente a vida de outras pessoas por meio desse fascínio que compartilhamos. Atualmente, estou dedicado aos estudos em Ciência da Computação, na universidade Unifeob, concentrando-me especialmente na área de desenvolvimento backend, embora meu objetivo seja abranger e compreender todas as areas de estudos.
 
 Enthusiastic about continuous learning and passionate about technologies and programming, I aspire to not only enrich my own journey but also to positively impact the lives of others through this shared fascination. Currently, I am dedicated to studying Computer Science at Unifeob University, with a particular focus on backend development. However, my ultimate goal is to embrace and comprehend various areas of study within the field.
